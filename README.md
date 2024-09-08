@@ -69,8 +69,8 @@
     </style>
     <body>
         
-        <H3> Yusuf Ibrahim haasan  </H3>
-        <H3> ID: 0046</H3>
+        <H3> Mohamed Nor Omar  </H3>
+        <H3> ID: 0061s</H3>
        
         <hr>
         <table>
@@ -83,24 +83,24 @@
 
             </tr>
             <td> Window</td>
-            <td> 95 </td>
-            <td> A+</td>
+            <td> 80 </td>
+            <td> B </td>
             <td> Computer</td>
             <tr>
 
            
         </tr>
         <td> Word</td>
-        <td> 91</td>
-        <td> A</td>
+        <td> 95</td>
+        <td> A+</td>
         <td> Computer</td>
         <tr>
 
        
     </tr>
     <td> Excel</td>
-    <td> 80</td>
-    <td> B</td>
+    <td> 100</td>
+    <td> A+</td>
     <td> Computer</td>
     <tr>
 
