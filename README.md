@@ -69,7 +69,7 @@
     </style>
     <body>
         
-        <H3> Mohamed Nor Omar  </H3>
+        <H3> Mohamed Omar Nor </H3>
         <H3> ID: 0061s</H3>
        
         <hr>
